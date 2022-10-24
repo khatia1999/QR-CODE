@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: outfit, sans-serif;
+}
+div{
+    background-color: hsl(0, 0%, 100%);
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;
+    
+   
+
+}
+img{
+    width: 288px;
+    height: 288px;
+    padding: 16px;
+}
+ 
+h3, p {
+    text-align: center;
+   
+}
+p{
+    color: #7D889E;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.19px;
+}
